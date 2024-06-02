@@ -76,10 +76,7 @@ Este projeto é uma aplicação de interface gráfica (GUI) desenvolvida em Pyth
 
 2. **Clique em "Inserir Funcionário"**: O funcionário será adicionado à árvore e a visualização será atualizada.
 
-![Exemplo de Interface](https://user-images.githubusercontent.com/12345678/123456789-abcdef00-d123-4567-890a-bcdef0123456.png)
 
 ## Conclusão
 
-Este projeto demonstra como combinar estruturas de dados (árvore binária de busca) com uma interface gráfica para criar uma aplicação interativa. É um exemplo de como usar Python para resolver problemas de gerenciamento de informações e visualização.
-
-Para mais detalhes sobre o código e funcionalidades, consulte a documentação inline e os comentários no código fonte.
+Este projeto demonstra como combinar estruturas de dados (árvore binária de busca) com uma interface gráfica para criar uma aplicação interativa. 
