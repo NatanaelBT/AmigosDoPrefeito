@@ -57,6 +57,8 @@ A interface gráfica foi construída usando Tkinter.
 - **Botões**:
   - `Inserir Funcionário`: Insere um funcionário na árvore.
   - `Mostrar Somas dos Salários`: Exibe as somas dos salários e dos auxílios paletó da subárvore direita.
+  - `Soma dos Auxílios Paletó (Amizade 4)`: Exibe as somas dos Auxílios Paletó dos amizade 4.
+
 
 - **Avisos**:
   - Mensagens de erro se as condições iniciais não forem atendidas (o primeiro funcionário deve ser o Prefeito com amizade nível 1).
